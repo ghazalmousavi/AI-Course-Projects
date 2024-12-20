@@ -3,7 +3,7 @@
 - 🌲 **DFS (Depth First Search)**
 - 🔄 **IDS (Iterative Deepening Search)**
 - ⭐️ **A***
-- ⚖️ **A* Weighted**
+- ⚖️ **A*** **Weighted**
 
 ## CA2 - Genetic Algorithm and Game
 ### Genetic Algorithm
@@ -22,8 +22,8 @@
 ## CA3 - Classification
 - 🛠️ **Data Preprocessing**
 - 📉 **Gaussian Naive Bayes**
-- 🌳 **Decision Tree Classifier**
-- 🌲🌳 **Random Forest Classifier**
+- 🌳 **Decision Tree**
+- 🌲🌳 **Random Forest**
 - ⚡️ **Adaptive Boosting (AdaBoost)**
 - ⚡️ **XGBoost**
 
