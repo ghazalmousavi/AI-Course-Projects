@@ -1,5 +1,4 @@
 ## CA1 - Search Algorithms
----
 - 🔍 **BFS (Breadth First Search)**
 - 🌲 **DFS (Depth First Search)**
 - 🔄 **IDS (Iterative Deepening Search)**
