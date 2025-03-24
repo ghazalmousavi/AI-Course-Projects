@@ -31,7 +31,6 @@
 - 🖼️ **Convolutional Neural Network (VGG16)**
 ---
 ## CA5 - Clustering
-
 - 📊 **PCA (Principal Component Analysis)**
 - 🔵 **KMeans**
 - 🌐 **DBSCAN**
