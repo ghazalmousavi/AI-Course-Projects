@@ -5,9 +5,7 @@
 - 🔄 **IDS (Iterative Deepening Search)**
 - ⭐️ **A*** 
 - ⚖️ **A*** **Weighted**
-
 ---
-
 ## CA2 - Genetic Algorithm and Game
 ### Genetic Algorithm
 - 🧬 **Gene**
@@ -21,9 +19,7 @@
 ### Game
 - 🎮 **MinMax Algorithm**
 - ✂️ **Alpha-Beta Pruning**
-
 ---
-
 ## CA3 - Classification
 - 🛠️ **Data Preprocessing**
 - 📉 **Gaussian Naive Bayes**
@@ -31,15 +27,11 @@
 - 🌲🌳 **Random Forest**
 - ⚡️ **Adaptive Boosting (AdaBoost)**
 - ⚡️ **XGBoost**
-
 ---
-
 ## CA4 - MLP and CNN
 - 🧠 **Multiple Layer Perceptron (MLP)**
 - 🖼️ **Convolutional Neural Network (VGG16)**
-
 ---
-
 ## CA5 - Clustering
 - 📊 **PCA (Principal Component Analysis)**
 - 🔵 **KMeans**
